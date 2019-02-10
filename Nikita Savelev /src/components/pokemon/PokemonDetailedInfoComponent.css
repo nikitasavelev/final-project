@@ -1,0 +1,15 @@
+.detailed-pokemon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: blanchedalmond;
+    color: #000;
+    margin-top: 150px;
+    font-size: 2rem;
+}
+
+p {
+
+    background: blanchedalmond;
+    color: #000;
+}

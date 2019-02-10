@@ -1,0 +1,36 @@
+.singlePokemon {
+    background: blanchedalmond;
+    margin: 3%;
+    border: 1px solid rgb(219, 219, 219);
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.catchBtn {
+    width: 250px;
+    text-align: center;
+    background: blanchedalmond;
+    border-top: 1px solid;
+    font-family: 'Amatic SC', cursive;
+}
+
+.catchBtn:hover {
+    background: #FFFFFF;
+}
+
+.catchBtn:active {
+    background: aqua;
+}
+
+h3 {
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+    font-size: 2rem;
+}
